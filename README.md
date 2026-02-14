@@ -1,3 +1,3 @@
 README.md
-img.1
-img.2
+img1.jpg
+img2.jpg
